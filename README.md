@@ -7,7 +7,7 @@ My first python object oriented programming project for the MIDS_W200 Data Scien
 
 ## How to run the program.  
 1. Execute the main.py through linux shell.  
--application promot: Do you have an account (“Y”/”N”)?  
+-application promt: Do you have an account (“Y”/”N”)?  
 --(no) create_barista_account or log into barista account.  
 --(yes) create account.  
 

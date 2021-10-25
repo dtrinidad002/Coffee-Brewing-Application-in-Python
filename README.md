@@ -1,5 +1,5 @@
 # Coffee-Brewing-Application-in-Python
-My first python coding project for the MIDS_W200 Data Science Programming course (Spring 2021)
+My first python object oriented programming project for the MIDS_W200 Data Science Programming course (Spring 2021)
 
 ![Speciality Coffee Application(2)](https://user-images.githubusercontent.com/76810921/138764754-a2c5e8c3-5190-42c8-8759-1829e1ff3904.png)
 

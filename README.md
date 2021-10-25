@@ -1,7 +1,9 @@
 # Coffee-Brewing-Application-in-Python
 My first python coding project for the MIDS_W200 Data Science Programming course (Spring 2021)
 
-There are still a few bugs in it, but are simple fixes. 
+![Speciality Coffee Application(2)](https://user-images.githubusercontent.com/76810921/138764754-a2c5e8c3-5190-42c8-8759-1829e1ff3904.png)
+
+![Speciality Coffee Application(3)](https://user-images.githubusercontent.com/76810921/138764922-19518842-636d-4562-831a-423c6b9180a2.png)
 
 ## How to run the program.  
 1. Execute the main.py through linux shell.  
